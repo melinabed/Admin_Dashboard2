@@ -1,1 +1,9 @@
+#small-image {
+  height: auto;
+  width: 50px;
+}
 
+#larger-image {
+  height: auto;
+  width: 55px;
+}
